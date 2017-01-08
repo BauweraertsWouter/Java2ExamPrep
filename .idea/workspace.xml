@@ -2,6 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27690ce9-7df5-4988-b584-c47e40616cd5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/lib/hsqldb.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/hsqldb.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/.idea/ant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/.idea/findbugs-idea.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/.idea/libraries/hsqldb.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/Laptop_Opdracht.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/db/laptopdb.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/db/laptopdb.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/laptopOpdracht.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/StartLaptopApplicatie.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/dao/LaptopDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/dao/LaptopData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/laptop/Laptop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/laptop/LaptopMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/laptop/PrijsComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/data/klantendata.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/persistentie.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/persistentie_opdr.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/src/DemoKlanten.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/src/klant/Adres.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/src/klant/Klant.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/src/klant/Klanten.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="out/" />
@@ -141,7 +184,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="State_Simple_Opgave" />
+              <option name="myItemId" value="persistentie_opdr" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -151,7 +194,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="State_Simple_Opgave" />
+              <option name="myItemId" value="persistentie_opdr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VoorbereidingExamen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="persistentie_opdr" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -159,7 +216,35 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="state" />
+              <option name="myItemId" value="klant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VoorbereidingExamen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="persistentie_opdr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VoorbereidingExamen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="persistentie_opdr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -212,10 +297,10 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settings.project.osgi.project.settings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week_5/State_Simple" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week_6/Serialization" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path" value="C:/Program Files (x86)/nodejs/node" />
@@ -712,7 +797,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1483870541543</updated>
-      <workItem from="1483870545586" duration="28986000" />
+      <workItem from="1483870545586" duration="29681000" />
     </task>
     <task id="LOCAL-00001" summary="Created Adres.java">
       <created>1483871163736</created>
@@ -890,7 +975,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28986000" />
+    <option name="totallyTimeSpent" value="29681000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -905,13 +990,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31852654" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.496208" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.496208" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1559,7 +1644,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>State_Simple_Opgave</last-edited>
+          <last-edited>persistentie_opdr</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

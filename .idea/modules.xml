@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Week_1/Deelbaar/Deelbaar.iml" filepath="$PROJECT_DIR$/Week_1/Deelbaar/Deelbaar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_4/Factory_Figuur/Factory_Figuur_Opgave/Factory_Figuur_Opgave.iml" filepath="$PROJECT_DIR$/Week_4/Factory_Figuur/Factory_Figuur_Opgave/Factory_Figuur_Opgave.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_2/KleurAnnotatie/KleurAnnotatie.iml" filepath="$PROJECT_DIR$/Week_2/KleurAnnotatie/KleurAnnotatie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/Laptop_Opdracht.iml" filepath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/Laptop_Opdracht.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_3/Punt/Punt_Opgave/Punt_Opgave.iml" filepath="$PROJECT_DIR$/Week_3/Punt/Punt_Opgave/Punt_Opgave.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_4/Quarto/Quarto_Opgave/Quarto_opgave.iml" filepath="$PROJECT_DIR$/Week_4/Quarto/Quarto_Opgave/Quarto_opgave.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_3/Rekenen/Rekenen_Opgave/Rekenen_Opgave.iml" filepath="$PROJECT_DIR$/Week_3/Rekenen/Rekenen_Opgave/Rekenen_Opgave.iml" />
@@ -16,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/Week_5/State_Simple/State_Simple_Opgave/State_Simple_Opgave/State_Simple_Opgave.iml" filepath="$PROJECT_DIR$/Week_5/State_Simple/State_Simple_Opgave/State_Simple_Opgave/State_Simple_Opgave.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_1/Team_opgave/Team_Opgave.iml" filepath="$PROJECT_DIR$/Week_1/Team_opgave/Team_Opgave.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_1/Winkellijst/Winkellijst.iml" filepath="$PROJECT_DIR$/Week_1/Winkellijst/Winkellijst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/persistentie_opdr.iml" filepath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/persistentie_opdr.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_5/Proxy_Factuur/ProxyFactuur/proxyFactuur/proxyFactuur.iml" filepath="$PROJECT_DIR$/Week_5/Proxy_Factuur/ProxyFactuur/proxyFactuur/proxyFactuur.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_4/TweeViewsMetObserver/tweeViewsMetObserver/tweeViewsMetObserver.iml" filepath="$PROJECT_DIR$/Week_4/TweeViewsMetObserver/tweeViewsMetObserver/tweeViewsMetObserver.iml" />
     </modules>
