@@ -5,17 +5,13 @@ package be.kdg.state;
  * Pas op deze klasse het State pattern toe (maak gebruik van een interface).
  */
 public class Creature {
-    private boolean isFrog = true;
+    private Kissable state = new Frog();
 
     public String greet() {
-        if (isFrog) {
-            return "Ribbet!";
-        } else {
-            return "Darling!";
-        }
+        return state.greet();
     }
 
     public void kiss() {
-        isFrog = false;
+        state = new Prince();
     }
 }
