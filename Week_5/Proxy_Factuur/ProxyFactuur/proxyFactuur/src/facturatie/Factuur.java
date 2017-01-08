@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-public final class Factuur {
+public final class Factuur implements Factureerbaar {
     public final double BTW;
     private int factuurNr;
     private Klant klant;
@@ -26,16 +26,16 @@ public final class Factuur {
         return klant;
     }
 
+    public void setKlant(Klant klant) {
+        this.klant = klant;
+    }
+
     public String getDatum() {
         return datum;
     }
 
     public void setDatum(String datum) {
         this.datum = datum;
-    }
-
-    public void setKlant(Klant klant) {
-        this.klant = klant;
     }
 
     public int getFactuurNr() {

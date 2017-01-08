@@ -1,5 +1,7 @@
 import Artikel.Artikel;
+import facturatie.Factureerbaar;
 import facturatie.Factuur;
+import facturatie.OnwijzigbareFactuur;
 import klant.Adres;
 import klant.Klant;
 
@@ -22,7 +24,7 @@ public class DemoFactuur {
 
         factuur.printFactuur();
         /*
-            Verwijder de commentaartekens om je oplossing uit te testen
+            Verwijder de commentaartekens om je oplossing uit te testen*/
 
         Factureerbaar andereFactuur = new OnwijzigbareFactuur(factuur);
         System.out.println("Pogingen om factuurgegevens te wijzigen:");
@@ -58,7 +60,7 @@ public class DemoFactuur {
         System.out.println();
         andereFactuur.printFactuur();
 
-        */
+
     }
 }
 
