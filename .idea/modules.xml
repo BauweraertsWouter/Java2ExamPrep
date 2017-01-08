@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Week_2/Annotation/Annotation.iml" filepath="$PROJECT_DIR$/Week_2/Annotation/Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_3/Bank/Bank_Opgave/Bank_Opgave/Bank_Opgave.iml" filepath="$PROJECT_DIR$/Week_3/Bank/Bank_Opgave/Bank_Opgave/Bank_Opgave.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_1/Deelbaar/Deelbaar.iml" filepath="$PROJECT_DIR$/Week_1/Deelbaar/Deelbaar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_2/KleurAnnotatie/KleurAnnotatie.iml" filepath="$PROJECT_DIR$/Week_2/KleurAnnotatie/KleurAnnotatie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_3/Punt/Punt_Opgave/Punt_Opgave.iml" filepath="$PROJECT_DIR$/Week_3/Punt/Punt_Opgave/Punt_Opgave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_3/Rekenen/Rekenen_Opgave/Rekenen_Opgave.iml" filepath="$PROJECT_DIR$/Week_3/Rekenen/Rekenen_Opgave/Rekenen_Opgave.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_1/Team_opgave/Team_Opgave.iml" filepath="$PROJECT_DIR$/Week_1/Team_opgave/Team_Opgave.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_1/Winkellijst/Winkellijst.iml" filepath="$PROJECT_DIR$/Week_1/Winkellijst/Winkellijst.iml" />
     </modules>
