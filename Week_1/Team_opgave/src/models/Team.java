@@ -1,11 +1,13 @@
 package models;
 
+import modelInterface.Showable;
+
 import java.util.*;
 
 /**
  * Created by Wouter on 8/01/2017.
  */
-public class Team {
+public abstract class Team implements Showable{
     private String name;
     private List<Speler> spelers;
 
@@ -40,4 +42,6 @@ public class Team {
             return null;
         }
     }
+
+
 }
