@@ -12,4 +12,23 @@ public class File extends Component{
   }
 
   // Vanaf hier zelf uitwerken:
+  @Override
+  public long getSize() {
+      return size;
+  }
+
+    @Override
+    public String getPath() {
+        return ((parent != null) ? (parent.getPath() + "\\") : "") + this.name;
+    }
+
+    @Override
+    public void setParent(Directory parent) {
+        this.parent = parent;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("%s (%dkb)", getPath(), getSize());
+    }
 }
