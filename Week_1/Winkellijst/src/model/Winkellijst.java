@@ -1,15 +1,20 @@
 package model;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
 /**
  * model.Winkellijst bevat 1 attribuut: een ArrayList van producten
  */
 public class Winkellijst {
 
+    private List<Product> producten;
     /**
      * Initialiseer het attribuut
      */
     public Winkellijst() {
-        //
+        producten = new ArrayList<>();
     }
 
     /**
@@ -17,22 +22,27 @@ public class Winkellijst {
      * @param product Het product
      */
     public void addProduct(Product product) {
-        //
+        producten.add(product);
+        Collections.sort(producten);
     }
 
     /**
      * Maak de lijst leeg
      */
     public void clear() {
-        //
+        producten.clear();
     }
 
     /**
      * toString: returns een String die alle producten achter elkaar bevat (met newlines ertussen)
      */
     public String toString() {
-        //
-        return "";
+        StringBuilder sb = new StringBuilder();
+        for (Product s : producten){
+            sb.append(s.toString());
+            sb.append("\n");
+        }
+        return sb.toString();
     }
 
     /**
