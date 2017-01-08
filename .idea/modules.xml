@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Week_1/Deelbaar/Deelbaar.iml" filepath="$PROJECT_DIR$/Week_1/Deelbaar/Deelbaar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_1/Team_opgave/Team_Opgave.iml" filepath="$PROJECT_DIR$/Week_1/Team_opgave/Team_Opgave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_1/Winkellijst/Winkellijst.iml" filepath="$PROJECT_DIR$/Week_1/Winkellijst/Winkellijst.iml" />
     </modules>
   </component>
 </project>
