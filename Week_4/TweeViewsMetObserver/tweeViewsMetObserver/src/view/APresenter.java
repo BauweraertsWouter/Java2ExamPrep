@@ -5,7 +5,10 @@ import javafx.event.EventHandler;
 import model.AModel;
 import model.BModel;
 
-public class APresenter {
+import java.util.Observable;
+import java.util.Observer;
+
+public class APresenter implements Observer {
     private AModel aModel;
     private BModel bModel;
     private AView aView;
@@ -15,6 +18,8 @@ public class APresenter {
         this.bModel = bModel;
         this.aView = aView;
         addEventHandlers();
+        aModel.addObserver(this);
+        bModel.addObserver(this);
     }
 
     private void addEventHandlers() {
@@ -25,5 +30,10 @@ public class APresenter {
                 aModel.setA(invoer);
             }
         });
+    }
+
+    @Override
+    public void update(Observable o, Object arg) {
+        aView.getTfOutput().setText(String.format("%d", (aModel.getA() * bModel.getB())));
     }
 }

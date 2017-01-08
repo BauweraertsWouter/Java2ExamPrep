@@ -1,6 +1,8 @@
 package model;
 
-public class BModel {
+import java.util.Observable;
+
+public class BModel extends Observable {
     private int b = 0;
 
     public int getB() {
@@ -8,6 +10,10 @@ public class BModel {
     }
 
     public void setB(int b) {
-        this.b = b;
+        if (this.b != b) {
+            this.b = b;
+            setChanged();
+            notifyObservers("B");
+        }
     }
 }

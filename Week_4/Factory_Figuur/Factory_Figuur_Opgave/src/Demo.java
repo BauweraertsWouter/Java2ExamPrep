@@ -1,3 +1,7 @@
+import factorydemo.Figuur;
+import factorydemo.FiguurFactory;
+import factorydemo.FiguurType;
+
 import java.util.Arrays;
 import java.util.List;
 

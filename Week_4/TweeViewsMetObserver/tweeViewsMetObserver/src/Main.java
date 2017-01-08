@@ -3,19 +3,22 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 import model.AModel;
 import model.BModel;
-import view.APresenter;
-import view.AView;
-import view.BPresenter;
-import view.BView;
+import view.*;
 
 public class Main extends Application {
+    public static void main(String[] args) {
+        Application.launch(args);
+    }
+
     public void start(Stage firstStage) throws Exception {
         AModel aModel = new AModel();
         BModel bModel = new BModel();
         AView aView = new AView();
         BView bView = new BView();
+        ConsoleView cv = new ConsoleView(aModel, bModel);
         new APresenter(aModel, bModel, aView);
         new BPresenter(aModel, bModel, bView);
+
 
         Scene aScene = new Scene(aView);
         firstStage.setScene(aScene);
@@ -35,9 +38,5 @@ public class Main extends Application {
         secondStage.setWidth(260);
         secondStage.setHeight(150);
         secondStage.show();
-    }
-
-    public static void main(String[] args) {
-        Application.launch(args);
     }
 }

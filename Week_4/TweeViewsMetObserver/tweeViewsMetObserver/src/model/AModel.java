@@ -1,6 +1,9 @@
 package model;
 
-public class AModel {
+
+import java.util.Observable;
+
+public class AModel extends Observable {
     private int a = 0;
 
     public int getA() {
@@ -8,6 +11,12 @@ public class AModel {
     }
 
     public void setA(int a) {
-        this.a = a;
+        if (this.a != a) {
+            this.a = a;
+            setChanged();
+            notifyObservers("A");
+        }
     }
+
+
 }
