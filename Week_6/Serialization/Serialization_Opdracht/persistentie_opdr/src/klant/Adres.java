@@ -1,9 +1,11 @@
 package klant;
 
-public class Adres {
+import java.io.Serializable;
+
+public class Adres implements Serializable {
     private String straatNr;
     private int postcode;
-    private String gemeente;
+    private transient String gemeente;
 
     public Adres(String straatNr, int postcode, String gemeente) {
         this.gemeente = gemeente;
