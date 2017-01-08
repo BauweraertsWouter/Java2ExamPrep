@@ -1,5 +1,6 @@
 package klant;
 
+import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -7,8 +8,9 @@ import java.util.Map;
  * Werk in deze klasse de methode serialize en deserialize uit.
  * Vergeet ook niet dat bepaalde klassen de Serializable interface moeten implementeren!
  */
-public class Klanten {
-    private static final String FILENAME = "data\\klantendata.txt";
+public class Klanten implements Serializable {
+    //private static transient final String FILENAME = "data\\klantendata.txt";
+    private static transient final String FILENAME = "Week_6\\Serialization\\Serialization_Opdracht\\persistentie_opdr\\data\\klantendata.txt";
     private Map<Integer, Klant> klantenMap = new HashMap<Integer, Klant>();
 
     public void voegToe(Klant nieuw) {
@@ -52,9 +54,22 @@ public class Klanten {
 
     public void serialize() {
         //uitwerken, maak gebruik van de constante FILENAME
+        try (FileOutputStream fOut = new FileOutputStream(FILENAME); ObjectOutputStream out = new ObjectOutputStream(fOut)) {
+            out.writeObject(klantenMap);
+        } catch (IOException io) {
+            io.printStackTrace();
+        }
     }
 
     public void deserialize() {
         //uitwerken, maak gebruik van de constante FILENAME
+        try (FileInputStream fIn = new FileInputStream(FILENAME); ObjectInputStream in = new ObjectInputStream(fIn)) {
+            klantenMap = (Map<Integer, Klant>) in.readObject();
+        } catch (IOException io) {
+            io.printStackTrace();
+        } catch (ClassNotFoundException c) {
+            c.printStackTrace();
+            ;
+        }
     }
 }

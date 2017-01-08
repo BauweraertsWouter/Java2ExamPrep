@@ -1,6 +1,8 @@
 package klant;
 
-public class Klant {
+import java.io.Serializable;
+
+public class Klant implements Serializable {
     private String naam;
     private Adres adres;
     private int klantNr;
