@@ -1,9 +1,6 @@
 package be.kdg.laptop;
 
-import java.util.Collections;
-import java.util.List;
-import java.util.Map;
-import java.util.TreeMap;
+import java.util.*;
 
 public final class LaptopMap {
     private Map<String, Laptop> map;
@@ -35,8 +32,13 @@ public final class LaptopMap {
     }
 
     public List<Laptop> getList(SortCriterium criterium) {
-        //Opdracht 3
-        return Collections.emptyList();
+        List<Laptop> laptops = Arrays.asList(map.values().toArray(new Laptop[map.values().size()]));
+        if (criterium == SortCriterium.OP_NAAM){
+            Collections.sort(laptops);
+        }else {
+            Collections.sort(laptops, new PrijsComparator());
+        }
+        return laptops;
     }
 
     public enum SortCriterium {

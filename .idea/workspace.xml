@@ -3,9 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="27690ce9-7df5-4988-b584-c47e40616cd5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/data/klantendata.txt" afterPath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/data/klantendata.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/src/klant/Klant.java" afterPath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/src/klant/Klant.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/src/klant/Klanten.java" afterPath="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/src/klant/Klanten.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/Laptop_Opdracht.iml" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/Laptop_Opdracht.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/db/laptopdb.properties" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/db/laptopdb.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/db/laptopdb.script" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/db/laptopdb.script" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/dao/LaptopDao.java" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/dao/LaptopDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/laptop/Laptop.java" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/laptop/Laptop.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/laptop/LaptopMap.java" afterPath="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/laptop/LaptopMap.java" />
     </list>
     <ignored path="out/" />
     <ignored path="Week_3/Bank/Bank_Opgave/out/production/Bank_Opgave/bankaccount/BankAccount.class" />
@@ -27,48 +30,7 @@
     <favorites_list name="VoorbereidingExamen" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Adres.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/src/klant/Adres.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Klant.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/src/klant/Klant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="42" lean-forward="false" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Klanten.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/src/klant/Klanten.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="54" lean-forward="false" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoKlanten.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/src/DemoKlanten.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -93,9 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Week_1/Winkellijst/src/view/WinkellijstUI.java" />
-        <option value="$PROJECT_DIR$/Week_1/Winkellijst/src/model/Winkellijst.java" />
-        <option value="$PROJECT_DIR$/Week_2/Annotation/src/MijnAnnotatie.java" />
         <option value="$PROJECT_DIR$/Week_2/Annotation/src/Wat.java" />
         <option value="$PROJECT_DIR$/Week_2/Annotation/src/annotations/Wat.java" />
         <option value="$PROJECT_DIR$/Week_2/Annotation/src/MyClass.java" />
@@ -144,6 +103,9 @@
         <option value="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/src/klant/Klant.java" />
         <option value="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/src/klant/Adres.java" />
         <option value="$PROJECT_DIR$/Week_6/Serialization/Serialization_Opdracht/persistentie_opdr/src/klant/Klanten.java" />
+        <option value="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/laptop/LaptopMap.java" />
+        <option value="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/laptop/Laptop.java" />
+        <option value="$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/dao/LaptopDao.java" />
       </list>
     </option>
   </component>
@@ -186,7 +148,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="persistentie_opdr" />
+              <option name="myItemId" value="Laptop_Opdracht" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -196,7 +158,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="persistentie_opdr" />
+              <option name="myItemId" value="Laptop_Opdracht" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -210,7 +172,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="persistentie_opdr" />
+              <option name="myItemId" value="Laptop_Opdracht" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -218,7 +180,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="klant" />
+              <option name="myItemId" value="kdg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laptop" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -228,25 +194,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="persistentie_opdr" />
+              <option name="myItemId" value="Laptop_Opdracht" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="out" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VoorbereidingExamen" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="persistentie_opdr" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
+              <option name="myItemId" value="kdg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -299,7 +259,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settings.project.osgi.project.settings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Week_6/Serialization" />
@@ -318,22 +278,7 @@
       <recent name="E:\KDG_2\Java 2\VoorbereidingExamen" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoKlanten">
-    <configuration default="false" name="DemoDozen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="DemoDozen" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AdaperLichamenOpgave" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.StartLaptopApplicatie">
     <configuration default="false" name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Client" />
@@ -396,6 +341,21 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="persistentie_opdr" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="StartLaptopApplicatie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="StartLaptopApplicatie" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Laptop_Opdracht" />
       <envs />
       <method />
     </configuration>
@@ -773,19 +733,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.DemoDozen" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Client" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DemoFactuur" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Run" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DemoKlanten" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Client" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DemoFactuur" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Run" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DemoKlanten" />
+      <item index="4" class="java.lang.String" itemvalue="Application.StartLaptopApplicatie" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DemoKlanten" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Run" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DemoFactuur" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Client" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DemoDozen" />
+        <item index="0" class="java.lang.String" itemvalue="Application.StartLaptopApplicatie" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DemoKlanten" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Run" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DemoFactuur" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -799,7 +759,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1483870541543</updated>
-      <workItem from="1483870545586" duration="30757000" />
+      <workItem from="1483870545586" duration="32871000" />
     </task>
     <task id="LOCAL-00001" summary="Created Adres.java">
       <created>1483871163736</created>
@@ -962,7 +922,14 @@
       <option name="project" value="LOCAL" />
       <updated>1483907016721</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Week 6: Opdracht Serialization">
+      <created>1483907034102</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1483907034102</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -998,10 +965,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30757000" />
+    <option name="totallyTimeSpent" value="32871000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1094,63 +1061,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week_3/Punt/Punt_Opgave/test/demo/TestPunt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="90" column="46" lean-forward="true" selection-start-line="90" selection-start-column="46" selection-end-line="90" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_4/Singleton_Film/Singleton_Film_Opgave/src/be/kdg/demo/singleton/UniekeVerzameling.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding>
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_4/Singleton_Film/Singleton_Film_Opgave/src/be/kdg/demo/singleton/Verzameling.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_4/Singleton_Film/Singleton_Film_Opgave/src/be/kdg/demo/singleton/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="51" lean-forward="false" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_4/Singleton_Film/Singleton_Film_Opgave/src/be/kdg/demo/RunDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_4/TweeViewsMetObserver/tweeViewsMetObserver/src/view/BView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week_4/TweeViewsMetObserver/tweeViewsMetObserver/src/view/ConsoleView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1597,6 +1507,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/laptop/PrijsComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/laptop/LaptopMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="40" column="23" lean-forward="false" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/dao/LaptopData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/laptop/Laptop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/be/kdg/dao/LaptopDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="82" column="27" lean-forward="false" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
+          <folding>
+            <element signature="method#create#0;class#LaptopDao#0" expanded="false" />
+            <marker date="1483909059780" expanded="true" signature="1078:1096" ph="DROP TABLE l... " />
+            <marker date="1483909059780" expanded="true" signature="1184:1344" ph="CREATE TABLE... laptops" />
+            <marker date="1483909059780" expanded="true" signature="1817:1836" ph="INSERT INTO laptops... " />
+            <marker date="1483909059780" expanded="true" signature="1817:1852" ph="INSERT INTO laptops... " />
+            <marker date="1483909059780" expanded="true" signature="1817:1879" ph="INSERT INTO laptops... " />
+            <marker date="1483909059780" expanded="true" signature="1817:1985" ph="INSERT INTO laptops... " />
+            <marker date="1483909059780" expanded="true" signature="1817:2011" ph="INSERT INTO laptops... " />
+            <marker date="1483909059780" expanded="true" signature="1817:2037" ph="INSERT INTO laptops... " />
+            <marker date="1483909059780" expanded="true" signature="1817:2038" ph="INSERT INTO laptops... " />
+            <marker date="1483909059780" expanded="true" signature="2613:2648" ph="SELECT * FRO... laptops" />
+            <marker date="1483909059780" expanded="true" signature="2613:2649" ph="SELECT * FRO... laptops" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/Laptop/Laptop_Opdracht/src/StartLaptopApplicatie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -1660,7 +1631,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>persistentie_opdr</last-edited>
+          <last-edited>Laptop_Opdracht</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
